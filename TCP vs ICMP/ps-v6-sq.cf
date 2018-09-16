@@ -1,0 +1,155 @@
+Serial No.,Node Name,IP Address,City,Latitude,Longitude,Country Code,Country Name
+1,pship02.csc.fi,2001:948:48:1::f502:1,Espoo,60.1915,24.8993,FI,FINLAND
+2,ps-esu-lt.perfsonar.kanren.net,2001:49d0:23c0:1002::2,Lawrence,38.415,-96.182,US,UNITED STATES
+3,perf.net.ohio-state.edu,2620::1a10:125:92e2:baff:fe68:7c29,Columbus,39.9798,-83.0407,US,UNITED STATES
+4,ps2.crc.rice.edu,2604:5e80:20:199f::4,Houston,29.7176,-95.4188,US,UNITED STATES
+5,maddash.aglt2.org,2001:48a8:68f7:1::110,Ann Arbor,42.3067,-83.7037,US,UNITED STATES
+6,bdw-uwo.sharcnet.ca,2620:123:7001:2::2,London,43.0090417,-81.2717815,CA,CANADA
+7,moth.cns.vt.edu,2001:468:c80:4101::192:78c3:3ef4,Blacksburg,37.2557,-80.4315,US,UNITED STATES
+8,ippm-up.sonar.fccn.pt,2001:690:880:10::71,Porto,41.178,-8.598,PT,PORTUGAL
+9,psmp-gn-mgmt-01-mil2-it.geant.net,2001:798:bb:2::9e,Milan,45.495,9.1780555,IT,ITALY
+10,psmp-gn-mgmt-01-lis-pt.geant.net,2001:798:bb:2::6e,Lison,38.7586823,-9.1418669,PT,PORTUGAL
+11,psmp-lhc-mgmt-01-par-fr.geant.net,2001:798:bb:2::46,Paris,48.9044444,2.3711111,FR,FRANCE
+12,perfsonar-bwctl.accre.vanderbilt.edu,2607:8a00:17:736:1::6f,Nashville,36.1553,-86.7891,US,UNITED STATES
+13,psl01.pic.es,2001:67c:1148:202::3,Bellaterra,41.5008345,2.1084649,ES,SPAIN
+14,univ-pau.fr,2001:660:6701:14:e484:b83e:b139:cb06,Pau,43.3,-0.3667,FR,FRANCE
+15,abd105-perf-1.network.cityfibre.com,2a05:8947:1:2::2,Aberdeen,52.5833,-0.25,GB,UNITED KINGDOM
+16,psmall-poz1.man.poznan.pl,2001:808:2:3004:2::2,Poznan,52.4167,16.9667,PL,POLAND
+17,em-1.pas-adhoc.chic.net.internet2.edu,2001:468:2:11::17:2,Ann Arbor,42.2776,-83.7409,US,UNITED STATES
+18,perfsonar-02.discovery.wisc.edu,2607:f388:107c:502::b,Madison,43.072835,-89.408135,US,UNITED STATES
+19,perfsonar-ps-02.desy.de,2001:638:700:1062::1:1d,Hamburg,53.577355,9.877352,DE,GERMANY
+20,komatsu.chtc.wisc.edu,2607:f388:107c:502::c,Madison,43.073,-89.402,US,UNITED STATES
+21,perfsonar-cms1.itns.purdue.edu,2001:18e8:804:7::80d3:8f03,West Lafayette,40.425,-86.917,US,UNITED STATES
+22,perfsonar-2.serenity.nsc.liu.se,2001:948:5a:1::1:4,Linkoping,58.23,15.34,SE,SWEDEN
+23,t2-pfsn2.jinr.ru,2a05:81c5:302:224::e1d3,Dubna,56.7333,37.1667,RU,RUSSIAN FEDERATION
+24,perfsonar-lt.cern.ch,2001:1458:301:a7bc::100:15,Geneva,46.232498,6.04593,CH,SWITZERLAND
+25,grid252.kfki.hu,2001:738:5001:fa::8:252,Budapest,47.498,19.0399,HU,HUNGARY
+26,t1-pfsn2.jinr-t1.ru,2a05:81c5:301:228::e597,Dubna,56.7333,37.1667,RU,RUSSIAN FEDERATION
+27,planchet.heanet.ie,2001:770:18:2::c101:db65,Dublin,53.3472,-6.243,IE,IRELAND
+28,siafu.cns.vt.edu,2001:468:c80:2102::153:9fb8:aa94,Blacksburg,37.1791,-80.3515,US,UNITED STATES
+29,cauldron.wiscnet.net,2001:4e0:1:8::10,Madison,43.0611,-89.4067,US,UNITED STATES
+30,ps-10g-dual-core-hartford.cen.ct.gov,2607:f460:a001:9::2,Hartford,41.767688,-72.687567,US,UNITED STATES
+31,ps-bryant-lt.perfsonar.kanren.net,2001:49d0:23c0:6::49,Lawrence,39.1,-94.581,US,UNITED STATES
+32,ps1-100g-sdmz.chat.tmc.edu,2001:468:1a08:f0f::21,Houston,29.7079,-95.401,US,UNITED STATES
+33,wuit-s-00047.wustl.edu,2604:3e00:2:3::2,St. Louis,38.6657,-90.3231,US,UNITED STATES
+34,ps1.kipt.kharkov.ua,2a00:fc00:e009::211,Kharkov,50.08736111,36.25013889,UA,UKRAINE
+35,its-perfsonar.lsu.edu,2620:105:b003:c500:92e2:baff:fe09:a069,Baton Rouge,30.405,-91.1868,US,UNITED STATES
+36,perfsonar-1.serenity.nsc.liu.se,2001:948:5a:1::1:3,Linkoping,58.4167,15.6167,SE,SWEDEN
+37,hepsonar1.ph.liv.ac.uk,2001:630:21:8d80::8afd:3c51,Liverpool,53.4106,-2.9779,GB,UNITED KINGDOM
+38,dtn.cybera.ca,2605:fd00:3:100b::2,Calgary,51.0837,-114.1342,CA,CANADA
+39,gridpp-ps-lat.ecdf.ed.ac.uk,2001:630:3c1:638::d546, Edinburgh,55.9521,-3.1965,GB,UNITED KINGDOM
+40,sonar.lsu.edu,2620:105:b00f:a500::4,Baton Rouge,30.405,-91.1868,US,UNITED STATES
+41,perfsonar-swick.uvm.edu,2620:104:e000:ae::2,Burlington,44.4759,-73.2121,US,UNITED STATES
+42,geantsonar.units.it,2001:760:2e03:e57e::2,Trieste,45.661604,13.799883,IT,ITALY
+43,perfsonar.ndsu.NoDak.edu,2001:4930:95::2,Fargo,46.8935,-96.8034,US,UNITED STATES
+44,ytelse.labs.uninett.no,2001:700::4540:21d:d8ff:feb7:54d6,Trondheim,63.4305,10.3951,NO,NORWAY
+45,test.lab-perf01.net.isc.upenn.edu,2607:f470:4:14::4a25:50:174,Philadelphia,39.9523,-75.1638,US,UNITED STATES
+46,perfsonar.tinklas.vu.lt,2001:77c:ffff:211::10,Vilnius,54.6833,25.3167,LT,LITHUANIA
+47,lpnhe-psl.in2p3.fr,2001:660:3036:197:134:158:159:85,Paris,48.8484,2.3561,FR,FRANCE
+48,ccperfsonar2.in2p3.fr,2001:660:5009:9:193:48:99:76,Villeurbanne,45.7825817,4.8660258,FR,FRANCE
+49,psmp-gn-mgmt-01-bud-hu.geant.net,2001:798:bb:2::4a,Budapest,47.51777,19.05527,HU,HUNGARY
+50,perfsonar.sdsmt.edu,2607:f558:1000:6::35,Rapid City,44.0805,-103.231,US,UNITED STATES
+51,perfsonar02.datagrid.cea.fr,2001:660:3031:110:ffff::222,Saclay,48.72149,2.148822,FR,FRANCE
+52,psmp-lhc-mgmt-01-ams-nl.geant.net,2001:798:bb:2::2e,Amsterdam,52.34638889,4.938611111,NL,NETHERLANDS
+53,wuit-s-00052.wustl.edu,2604:3e00:2:4::2,Saint Louis,38.6657,-90.3231,US,UNITED STATES
+54,psmp-lhc-mgmt-01-fra-de.geant.net,2001:798:bb:2::3e,Frankfurt,50.11972222,8.736944444,DE,GERMANY
+55,psmp-gn-bw-01-kau-lt.geant.net,2001:798:fc00:1f::6,Kaunas,54.9407,24.018,LT,LITHUANIA
+56,psmp-gn-bw-01-buc-ro.geant.net,2001:798:fc00:2b::6,Bucharest,44.4447,26.0964,RO,ROMANIA
+57,ps1-dal.chat.tmc.edu,2001:468:1a08:fff4::2,Houston,29.7079,-95.401,US,UNITED STATES
+58,haglid.cns.vt.edu,2001:468:c80:210f:0:1ed:50fc:f11a,Blacksburg,37.1791,-80.3515,US,UNITED STATES
+59,calcul-sonde.crihan.fr,2001:660:7401:279::242,SAINT ETIENNE DU ROUVRAY,49.385441,1.069477,FR,FRANCE
+60,io-37-02.acrc.bris.ac.uk,2001:630:e4:2810:137:222:79:15,Bristol,51.4552,-2.5966,GB,UNITED KINGDOM
+61,clpk-ps.maxgigapop.net,2001:468:c00:9:2e0:81ff:fe70:2a2,College Park,38.9807,-76.9369,US,UNITED STATES
+62,psmp-lhc-mgmt-01-gen-ch.geant.net,2001:798:bb:2::2a,Geneva,46.23194444,6.045555556,CH,SWITZERLAND
+63,speedtest4.sb.mcm.net.rochester.edu,2620:107:a000:10::11,Henrietta,43.0594,-77.6147,US,UNITED STATES
+64,psmp-lhc-mgmt-01-lon-uk.geant.net,2001:798:bb:2::42,London,51.498611,-0.01555,UK,UGANDA
+65,perfsonar-cms2.itns.purdue.edu,2001:18e8:804:7::80d3:8f04,West Lafayette,40.425,-86.917,US,UNITED STATES
+66,wuit-s-00043.wustl.edu,2606:fd80:20::2,St. Louis,38.6273,-90.1979,US,UNITED STATES
+67,perfsonar-10g.northernlights.gigapop.net,2607:ea00:1:f::2,Minneapolis,44.9759,-93.2166,US,UNITED STATES
+68,skipjack.cns.vt.edu,2001:468:c80:210f:0:159:3a83:36f7,Blacksburg,37.1791,-80.3515,US,UNITED STATES
+69,psmp-gn-bw-01-tal-ee.geant.net,2001:798:fc00:16::6,Tallinn,59.4348,24.7139,EE,ESTONIA
+70,psmp-gn-bw-01-ams-nl.geant.net,2001:798:fc00:22::6,Amsterdam,52.346388,4.938611,NL,NETHERLANDS
+71,psmp-gn-bw-01-rig-lv.geant.net,2001:798:fc00:21::6,Riga,56.9483,24.118,LV,LATVIA
+72,psmp-gn-bw-01-lon-uk.geant.net,2001:798:fc00:28::6,London,51.498611,-0.01555,UK,UGANDA
+73,psmp-gn-bw-02-fra-de.geant.net,2001:798:bb:2::6,Frankfurt,50.1109,8.6821,DE,GERMANY
+74,psmp-gn-bw-01-poz-pl.geant.net, 2001:798:fc00:23::6,Poznan,52.41175,16.91754,PL,POLAND
+75,lpnhe-psb.in2p3.fr,2001:660:3036:197:134:158:159:86,Paris,48.8484,2.3561,FR,FRANCE
+76,perf-3.ems.psu.edu,2610:8:7800:1f::251,University Park,40.7961,-77.8628,US,UNITED STATES
+77,llrpsonar1.in2p3.fr,2001:660:302c:23:134:158:132:200,Palaiseau,45.7655,4.8755,FR,FRANCE
+78,llrpsonar2.in2p3.fr,2001:660:302c:23:134:158:132:201,palaiseau,46.7655,5.8755,FR,FRANCE
+79,psmp-gn-mgmt-01-ath-gr.geant.net,2001:798:bb:2::56,Athens,37.9731,23.7456,GR,GREECE
+80,perfsonar-tp.uvm.edu,2620:104:e001:1005::2,Burlington,44.4759,-73.2121,US,UNITED STATES
+81,gridpp-ps-band.ecdf.ed.ac.uk,2001:630:3c1:638::d545,Edinburgh,55.9267,-3.17394,GB,UNITED KINGDOM
+82,perfsonar-mp.uni-ruse.bg,2001:67c:220c::40,Ruse,43.8545,25.9703,BG,BULGARIA
+83,psmp-gn-mgmt-01-mar-fr.geant.net,2001:798:bb:2::92,Marseille,43.3110278,5.3739,FR,FRANCE
+84,ippm-fccn.sonar.fccn.pt,2001:690:800:1000::7001,Lisboa,38.757,-9.14,PT,PORTUGAL
+85,perfsonar01.hep.wisc.edu,2607:f388:101c:1000::441,Madison,43.0731,89.4012,US,UNITED STATES
+86,perfsonar-wat.uvm.edu,2620:104:e001:1200::2,Burlington,44.4759,-73.2121,US,UNITED STATES
+87,psmp-gn-mgmt-01-ham-de.geant.net,2001:798:bb:2::62,Hamburg,53.5509452,10.0442084,DE,GERMANY
+88,psmp-gn-bw-01-sof-bg.geant.net,2001:798:fc00:2c::6,Sofia,42.6741,23.3694,BG,BULGARIA
+89,lat-uw.sharcnet.ca, 2620:123:7002:3::3,Waterloo,43.4722854,-80.5448576,CA,CANADA
+90,lcgps01.gridpp.rl.ac.uk,2001:630:58:1820::82f6:b06d,Appleton,51.75,-1.315,GB,UNITED KINGDOM
+91,psmp-gn-bw-01-fra-de.geant.net,2001:798:fc00:14::6,Frankfurt,50.1197222,8.7369444,DE,GERMANY
+92,Hurricane Electric Inc.,2001:470:1d:151:dfe4:afe3:2e78:d753,Fremont,37.5483,-121.9886,US,UNITED STATES
+93,wuit-s-00044.wustl.edu,2606:fd80:21::2,St. Louis,38.6273,-90.1979,US,UNITED STATES
+94,ps-toolkit.rrze.uni-erlangen.de,2001:638:a000:3502::56,Erlangen,49.5956,10.995,DE,GERMANY
+95,psmp-gn-mgmt-01-mad-es.geant.net,2001:798:bb:2::86,Madrid,40.5365,-3.6488,ES,SPAIN
+96,se-perf.net.ohio-state.edu,2620::1a10:127:a2ec:f9ff:fe85:6f3d,Columbus,39.9612,-82.9988,US,UNITED STATES
+97,psmp-gn-bw-01-gen-ch.geant.net,2001:798:fc00:12::6,Geneva,46.23194,6.045555,CH,SWITZERLAND
+98,psmp-gn-bw-01-par-fr.geant.net,2001:798:fc00:18::6,Paris,48.904,2.3711,FR,FRANCE
+99,psmall.lut.ac.uk,2001:630:301:b018::616a:b17e,Loughborough,52.758114,-1.247837,GB,UNITED KINGDOM
+100,perfsonar2.grid.iu.edu,2001:18e8:2:6::168,Bloomington,39.1653,-86.5264,US,UNITED STATES
+101,ps-gsdc01.sdfarm.kr,2001:320:15:125:134:75:125:241,Daejeon,36.1583,128.2561,KRKOREA REPUBLIC OF
+102,perfsonar01-iep-grid.saske.sk,2001:4118:900:cc00::111,Kosice,48.73,21.24,SK,SLOVAKIA
+103,psmp-gn-mgmt-01-poz-pl.geant.net,2001:798:bb:2::b2,Poznan,52.41175,16.91754,PL,POLAND
+104,perfsonar.ix.ui-iccn.org,2620::e10:4001:260:ddff:fe44:beac,Urbana,40.1095,-88.2123,US,UNITED STATES
+105,perfsonar2.mi.infn.it,2001:760:4224:1::39,Milano,45.4773,9.1815,IT,ITALY
+106,,2606:a000:111c:406c:250:56ff:feb2:460c,Raleigh,35.7721,-78.6386,US,UNITED STATES
+107,ps-gsdc02.sdfarm.kr,2001:320:15:125:134:75:125:242,Daejeon,36.1583,128.2561,KR,KOREA, REPUBLIC OF
+108,ps02.iihe.ac.be,2001:6a8:1080::16,Brussels,50.8333,4.3333,BE,BELGIUM
+109,perfs-wigner-bw.cern.ch,2001:1459:301:19::100:18,Budapest,47.492298,18.95441,HU,HUNGARY
+110,perfsonar-ps-01.desy.de,2001:638:700:1062::1:1e,Hamburg,53.577355,9.877352,DE,GERMANY
+111,perf-2.ems.psu.edu,2610:8:6c00:13::244,University Park,40.7961,-77.8628,US,UNITED STATES
+112,pfs1.renu.ac.ug,2c0f:f6d0::2b,Kampala,0.340117,32.5774186,UG,UGANDA
+113,perfsonar-bw.cern.ch,2001:1458:301:a7bc::100:14,Geneva,46.232498,6.04593,SZ,SWAZILAND
+114,bdw-uw.sharcnet.ca,2620:123:7002:3::2,Waterloo,43.4722854,-80.5448576,CA,CANADA
+115,pSmall.roedu.net,2001:b30:200:1b::2,Bucharest,44.4443,26.0961,RO,ROMANIA
+116,perfsonar-ps.ndgf.org, 2001:948:40:3::86,Copenhagen,62,15,DK,DENMARK
+117,ws1.rtm.tns.its.psu.edu,2610:8:7900:16::2,University Park,40.7961,-77.8628,USA,UNITED STATES
+118,ps.lhcopn-ps.surfsara.nl,2001:610:108:3017::9,Amsterdam,52.374,4.8897,NL,NETHERLANDS
+119,t2ps-bandwidth.physics.ox.ac.uk,2001:630:441:905::d3,Oxford,51.75,-1.25,GB,UNITED KINGDOM
+120,perf.stolaf.edu,2620:132:b020:12::131,Northfield,44.4614,-93.2007,US,UNITED STATES
+121,ps-fhsu-lt.perfsonar.kanren.net,2001:49d0:23c0:1001::2,Lawrence,38.871,-99.345,US,UNITED STATES
+122,lcgps02.gridpp.rl.ac.uk,2001:630:58:1820::82f6:b06e,Appleton,51.575,-1.315,GB,UNITED KINGDOM
+123,perfsonar-hartford.cen.ct.gov,2607:f460:a001:9::2,Hartford,41.767688,-72.687567,CT,COSTA RICA
+124,pship01.csc.fi,2001:948:48:1::f501:1,Espoo,60.1915,24.8993,FI,FINLAND
+125,ps-10g-dual-core-storrs.cen.ct.gov,2607:f460:a001:13::2,Hartford,41.809195,-72.257159,CT,COSTA RICA
+126,perfsonar2-grid.uaic.ro,2001:b30:1002:612::1120,Iasi,47.1667,27.6,RO,ROMANIA
+127,hcc-ps01.unl.edu,2600:900:6:1102:7a2b:cbff:fe68:a68c,Lincoln,40.812957,-96.70299,US,UNITED STATES
+128,m-cssc-b380-12.net.wisc.edu,2607:f388:d:100::221,Madison,43.0731,-89.4012,US,UNITED STATES
+129,maddashdev0.internet2.edu,2001:48a8:68fe::32,Ann Arbor,42.2776,-83.7409,US,UNITED STATES
+130,ps-wsu-lt.perfsonar.kanren.net,2001:49d0:23c0:9::73,Lawrence,37.718,-97.295,US,UNITED STATES
+131,perfsonar01.datagrid.cea.fr,2001:660:3031:110:ffff::221,Saclay,48.72149,2.148822,FR,FRANCE
+132,perfsonar.dkrz.de,53.5663029,Hamburg,53.5663029,9.9770448,DE,GERMANY
+133,perfsonar-latency.esc.qmul.ac.uk,2a01:56c0:4033::26,London,51.5085,-0.1257,GB,UNITED KINGDOM
+134,perfsonar2.ndsu.NoDak.edu,2001:4930:95::3,Fargo,46.8935,-96.8034,US,UNITED STATES
+135,netperf.ayy.fi,2001:708:30::9,Espoo,60.18836,24.83642,FI,FINLAND
+136,pssmall.grid.aau.dk,2001:878:300:500::109,Aalborg,57.012313,9.991161,DK,DENMARK
+137,ps1-sdmz.chat.tmc.edu,2001:468:1a08:f0f::19,Houston,29.7079,-95.401,US,UNITED STATES
+138,dtn.rn.psu.edu,2610:8::82:268a:7ff:fe06:6f46,University Park,40.81145,-77.868652,US,UNITED STATES
+139,56m-ps.sox.net,2607:f7b8:eeee:eeee:260:ddff:fe44:a2e6,Atlanta,33.755456,-84.39153,US,UNITED STATES
+140,hepsonar2.ph.liv.ac.uk,2001:630:21:8d80::8afd:3c52,Liverpool,53.4167,-3,GB,UNITED KINGDOM
+141,t1-pfsn1.jinr-t1.ru,2a05:81c5:301:228::e596,Dubna,56.7333,37.1667,RU,RUSSIAN FEDERATION
+142,ps-ku-lt.perfsonar.kanren.net,2001:49d0:23c0:7::57,Lawrence,38.952,-95.258,US,UNITED STATES
+143,t2ps-latency.physics.ox.ac.uk,2001:630:441:905::d2,Oxford,51.75,-1.25,GB,UNITED KINGDOM
+144,ps1-hou.chat.tmc.edu,2001:468:1a08:fff2::2,Houston,29.7079,-95.401,US,UNITED STATES
+145,perfsonar2-de-kit.gridka.de,2a00:139c:5:4102::12,Oststadt,49.0096,8.4245,DE,GERMANY
+146,ccperfsonar1.in2p3.fr,2001:660:5009:9:193:48:99:77,Villeurbanne,45.7825817,4.8660258,FR,FRANCE
+147,ps-washburn-lt.perfsonar.kanren.net,2001:49d0:23c0:1004::2,Lawrence,39.033,-95.703,US,UNITED STATES
+148,perfmon.dur.scotgrid.ac.uk,2001:630:a5:1200::a:3,Durham,54.766576,-1.574575,GB,UNITED KINGDOM
+149,tc-perf.net.ohio-state.edu,2620::1a10:126:a2ec:f9ff:fe85:76d9,Columbus,39.9612,-82.9988,US,UNITED STATES
+150,m-csscplat-b380-10.net.wisc.edu,2607:f388:2:2000::1018,Madison,43.0731,-89.4012,US,UNITED STATES
+151,ps-psu-lt.perfsonar.kanren.net,2001:49d0:23c0:1003::2,Lawrence,37.392,-94.704,US,UNITED STATES
+152,ps-small.dev.ja.net,2001:630:50:d014::222,Didcot,51.57468249,-1.316299438,GB,UNITED KINGDOM
+153,perfsonar-bw.tier2.hep.manchester.ac.uk,2001:630:22:1004:800:ff:fe00:27,Manchester,53.46452,-2.24802,GB,UNITED KINGDOM
+154,t2-pfsn1.jinr.ru,2a05:81c5:302:224::e1d2,Dubna,56.7333,37.1667,RU,RUSSIAN FEDERATION
